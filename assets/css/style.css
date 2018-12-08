@@ -143,6 +143,21 @@ input {
     margin: 15px;
 }
 
+.contactItem {
+    margin: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.gitLink {
+    height: 20px;
+    width: 20px;
+}
+
+.gitDiv {
+    z-index: 10;
+}
+
 .portfolioImage {
     height: inherit;
     width: inherit;
